@@ -1,5 +1,5 @@
 // Create a JavaScript Date object using the release date string
-var countDownDate = new Date("2024-9-14");
+var countDownDate = new Date("Sep 22, 2024");
 
 // Update the count down every 1 second
 var x = setInterval(function() {
